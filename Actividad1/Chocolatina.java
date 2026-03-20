@@ -1,4 +1,5 @@
-package genericas;
+package Actividad1;
+
 
 public class Chocolatina {
 
